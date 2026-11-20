@@ -1,3 +1,16 @@
+## Portfolio overview
+
+<img src="assets/portfolio-overview.svg" alt="Odoo source tree overview: server, add-ons, and web client" width="100%" />
+
+This repository contains a full Odoo application source tree, including the command-line launcher, server packages, add-ons, web assets, setup files, and documentation. The existing README links to Odoo 15.0 documentation.
+
+This entry presents the codebase as a platform source snapshot. It is not a standalone feature project authored in this repository. For installation, development, and licensing details, use the documentation and notices included with the source.
+
+- [Odoo 15.0 documentation](https://www.odoo.com/documentation/15.0)
+- [Project overview](#odoo)
+
+---
+
 [![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
 [![Tech Doc](https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/documentation/15.0)
 [![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
